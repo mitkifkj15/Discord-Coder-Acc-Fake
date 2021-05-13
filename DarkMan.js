@@ -7385,13 +7385,11 @@ message.member.voiceChannel
 
 
 
-//تۆكینه‌كان لێره‌ جا بنێ
-
-client.login("");
+//تۆكینه‌كان لێره‌ جا بنێh");
 client2.login("");
 client3.login("");
 client4.login("");
-client5.login("");
+client5.login("aqjbe63157@87708b.com");
 client6.login("");
 client7.login("");
 client8.login("");
